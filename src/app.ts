@@ -49,12 +49,12 @@ function validation_p1_c1() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -74,12 +74,12 @@ function validation_p1_c2() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -99,12 +99,12 @@ function validation_p1_c3() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -124,12 +124,12 @@ function validation_p1_c4() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -149,12 +149,12 @@ function validation_p1_c5() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -176,12 +176,12 @@ function validation_p1_c6() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -203,12 +203,12 @@ function validation_p2_c1() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -228,12 +228,12 @@ function validation_p2_c2() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -253,12 +253,12 @@ function validation_p2_c3() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -278,12 +278,12 @@ function validation_p2_c4() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -303,12 +303,12 @@ function validation_p2_c5() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -330,12 +330,12 @@ function validation_p3_c1() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -355,12 +355,12 @@ function validation_p3_c2() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -380,12 +380,12 @@ function validation_p3_c3() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -405,12 +405,12 @@ function validation_p3_c4() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -430,12 +430,12 @@ function validation_p3_c5() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -455,12 +455,12 @@ function validation_p3_c6() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -480,12 +480,12 @@ function validation_p3_c7() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -505,12 +505,12 @@ function validation_p3_c8() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -530,12 +530,12 @@ function validation_p3_c9() {
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
@@ -549,18 +549,18 @@ function validation_p3_c10() {
         console.log("██╔═══╝ ██╔═██║██╔═██║██╔═██╗  ██║   ██╔═██║██╔═██");
         console.log("██║ ███║██║ ██║██║ ██║██║ ██║  ██║   ██║ ██║█████╗ ");
         console.log("██╚═╝██║██║ ██║██║ ██║██║ ██╝  ██║██╗██║ ██║██╔═██ ");
-        console.log("███████║██████║██████║█████╝   █████║██████║█████╗╗");
+        console.log("███████║██████║██████║█████╝   █████║██████║█████╗");
         console.log("╚══════╝╚═════╝╚═════╝╚═══╝    ╚════╝╚═════╝╚════╝");
         console.log("");
     } else {
         console.clear();
         console.log("");
-        console.log("███╗   ███╗╔█████╗ ██╗");
-        console.log("████╗ ████║██╔══██╗██║");
-        console.log("██╔████╔██║███████║██║");
-        console.log("██║╚██╔╝██║██╔══██║██║");
-        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
-        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("█████╗ ╔█████╗  █████╗ ");
+        console.log("██╔═██ ██╔══██╗ ██╔═██╗");
+        console.log("█████╗ ███████║ ██║ ██║");
+        console.log("██╔═██ ██╔══██║ ██║ ██╝");
+        console.log("█████╗ ██║  ██║ █████╝ ");
+        console.log("╚════╝ ╚═╝  ╚═╝ ╚═══╝  ");
         console.log("");
     } return
 }
