@@ -560,12 +560,12 @@ function validation_p3_c10() {
     if (p3 === commands_part_three[10]) {
         console.clear();
         console.log("");
-        console.log("███╗  ██╗██╗██████╗██████╗");
-        console.log("████╗ ██║██║██╔═══║██╔═══╝");
-        console.log("██╔██╗██║██║██║   ║█████╗ ");
-        console.log("██║╚████║██║██║   ║██╔══╝ ");
-        console.log("██║ ╚███║██║██████║██████╗");
-        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("██████╗ ██████╗██████╗█████╗   ██╗   ██████╗█████╗");
+        console.log("██╔═══╝ ██╔═██║██╔═██║██╔═██╗  ██║   ██╔═██║██╔═██");
+        console.log("██║ ███║██║ ██║██║ ██║██║ ██║  ██║   ██║ ██║█████╗ ");
+        console.log("██╚═╝██║██║ ██║██║ ██║██║ ██╝  ██║██╗██║ ██║██╔═██ ");
+        console.log("███████║██████║██████║█████╝   █████║██████║█████╗╗");
+        console.log("╚══════╝╚═════╝╚═════╝╚═══╝    ╚════╝╚═════╝╚════╝");
         console.log("");
     }
     else {
@@ -581,14 +581,14 @@ function validation_p3_c10() {
     }
     return;
 }
-console.log('');
-console.log('Sigue los pasos correspondientes.');
-console.log('');
-console.log('- Digite 1 para entrar al menu de la Parte 1. \n- Digite 2 para entrar al menu de la Parte 2 \n- Digite 3 para entrar al menu de la Parte 3.');
-console.log('');
-const parte = readline_sync_1.default.questionInt('Digite el numero correspondiente: ');
 const option = -1;
-while (option != 0) {
+do {
+    console.log('');
+    console.log('Sigue los pasos correspondientes.');
+    console.log('');
+    console.log('- Digite 1 para entrar al menu de la Parte 1. \n- Digite 2 para entrar al menu de la Parte 2 \n- Digite 3 para entrar al menu de la Parte 3.');
+    console.log('');
+    const parte = readline_sync_1.default.questionInt('Digite el numero correspondiente: ');
     if (parte === 1) {
         console.log('');
         console.log('---------- PARTE 1 ----------');
@@ -699,5 +699,6 @@ while (option != 0) {
                 validation_p3_c10();
                 break;
         }
+        break;
     }
-}
+} while (option != 0);
