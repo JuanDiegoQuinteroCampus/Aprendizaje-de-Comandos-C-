@@ -36,10 +36,25 @@ function validation_p1_c1() {
     const p1 = readline_sync_1.default.question('Ingresa el Primer comando de la parte 1: ');
     if (p1 === comands_part_one[1]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -47,10 +62,25 @@ function validation_p1_c2() {
     const p1 = readline_sync_1.default.question('Ingresa el Segundo comando de la parte 1: ');
     if (p1 === comands_part_one[2]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -58,10 +88,25 @@ function validation_p1_c3() {
     const p1 = readline_sync_1.default.question('Ingresa el Tercer comando de la parte 1: ');
     if (p1 === comands_part_one[3]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -69,10 +114,25 @@ function validation_p1_c4() {
     const p1 = readline_sync_1.default.question('Ingresa el Cuarto comando de la parte 1: ');
     if (p1 === comands_part_one[4]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -80,10 +140,25 @@ function validation_p1_c5() {
     const p1 = readline_sync_1.default.question('Ingresa el Quinto comando de la parte 1: ');
     if (p1 === comands_part_one[5]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -91,11 +166,26 @@ function validation_p1_c6() {
     const p1 = readline_sync_1.default.question('Ingresa el Sexto comando de la parte 1: ');
     if (p1 === comands_part_one[6]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
         console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -104,10 +194,25 @@ function validation_p2_c1() {
     const p2 = readline_sync_1.default.question('Ingresa el Primer comando de la parte 2: ');
     if (p2 === commands_part_two[1]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -115,10 +220,25 @@ function validation_p2_c2() {
     const p2 = readline_sync_1.default.question('Ingresa el Segundo comando de la parte 2: ');
     if (p2 === commands_part_two[2]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -126,10 +246,25 @@ function validation_p2_c3() {
     const p2 = readline_sync_1.default.question('Ingresa el Tercer comando de la parte 2: ');
     if (p2 === commands_part_two[3]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -137,10 +272,25 @@ function validation_p2_c4() {
     const p2 = readline_sync_1.default.question('Ingresa el Cuarto comando de la parte 2: ');
     if (p2 === commands_part_two[4]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -148,10 +298,25 @@ function validation_p2_c5() {
     const p2 = readline_sync_1.default.question('Ingresa el Quinto comando de la parte 2: ');
     if (p2 === commands_part_two[5]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -160,11 +325,25 @@ function validation_p3_c1() {
     const p3 = readline_sync_1.default.question('Ingresa el Primer comando de la parte 3: ');
     if (p3 === commands_part_three[1]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -172,11 +351,25 @@ function validation_p3_c2() {
     const p3 = readline_sync_1.default.question('Ingresa el Segundo comando la parte 3: ');
     if (p3 === commands_part_three[2]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -184,11 +377,25 @@ function validation_p3_c3() {
     const p3 = readline_sync_1.default.question('Ingresa el Tercer comando la parte 3: ');
     if (p3 === commands_part_three[3]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -196,11 +403,25 @@ function validation_p3_c4() {
     const p3 = readline_sync_1.default.question('Ingresa el Cuarto comando la parte 3: ');
     if (p3 === commands_part_three[4]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -208,11 +429,25 @@ function validation_p3_c5() {
     const p3 = readline_sync_1.default.question('Ingresa el Quinto comando la parte 3: ');
     if (p3 === commands_part_three[5]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -220,11 +455,25 @@ function validation_p3_c6() {
     const p3 = readline_sync_1.default.question('Ingresa el Sexto comando la parte 3: ');
     if (p3 === commands_part_three[6]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -232,11 +481,25 @@ function validation_p3_c7() {
     const p3 = readline_sync_1.default.question('Ingresa el Septimo comando la parte 3: ');
     if (p3 === commands_part_three[7]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -244,11 +507,25 @@ function validation_p3_c8() {
     const p3 = readline_sync_1.default.question('Ingresa el Octavo comando la parte 3: ');
     if (p3 === commands_part_three[8]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -256,11 +533,25 @@ function validation_p3_c9() {
     const p3 = readline_sync_1.default.question('Ingresa el Noveno comando la parte 3: ');
     if (p3 === commands_part_three[9]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }
@@ -268,11 +559,25 @@ function validation_p3_c10() {
     const p3 = readline_sync_1.default.question('Ingresa el Decimo comando la parte 3: ');
     if (p3 === commands_part_three[10]) {
         console.clear();
-        console.log("\n\n ---------  ESOOOO MAMONA!!!  -----------\n");
+        console.log("");
+        console.log("███╗  ██╗██╗██████╗██████╗");
+        console.log("████╗ ██║██║██╔═══║██╔═══╝");
+        console.log("██╔██╗██║██║██║   ║█████╗ ");
+        console.log("██║╚████║██║██║   ║██╔══╝ ");
+        console.log("██║ ╚███║██║██████║██████╗");
+        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("");
     }
     else {
-        console.log('Como que le gusta la mondá, no? Está de chistosa?');
-        return;
+        console.clear();
+        console.log("");
+        console.log("███╗   ███╗╔█████╗ ██╗");
+        console.log("████╗ ████║██╔══██╗██║");
+        console.log("██╔████╔██║███████║██║");
+        console.log("██║╚██╔╝██║██╔══██║██║");
+        console.log("██║ ╚═╝ ██║██║  ██║█████╗");
+        console.log("╚═╝     ╚═╝╚═╝  ╚═╝╚════╝");
+        console.log("");
     }
     return;
 }

@@ -4,5 +4,17 @@
   },
   "devDependencies": {
     "@types/readline-sync": "^1.4.4"
-  }
+  },
+  "contributors": [
+    {
+      "name" : "Yedher Pineda",
+      "trainer" : "Vermen",
+      "github_profile" : "https://github.com/DavidPineda02"
+    },
+    {
+      "name" : "Juan Avila",
+      "trainer" : "Miguel",
+      "github_profile" : "https://github.com/JuanDavidAvilaRaveloCampus"
+    }
+  ]
 }
