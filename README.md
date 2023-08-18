@@ -154,4 +154,4 @@ git push origin mi-nueva-funcionalidad
 
 Este proyecto se encuentra bajo la Licencia MIT. Siéntete  libre de utilizar, modificar y distribuir el código según tus   necesidades.
 
-¡Gracias por contribuir al proyecto "mongoAlquiler"!
+¡Gracias por contribuir al proyecto "Aprendizaje de Comandos C# 📚💻"!
