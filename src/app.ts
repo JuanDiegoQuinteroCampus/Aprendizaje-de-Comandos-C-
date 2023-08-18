@@ -17,6 +17,8 @@ const commands_part_two = {
     5: "dir"
 }
 
+
+
 const commands_part_three = {
     1: "cd Aplicacion",
     2: "dotnet add reference ../Dominio/",
@@ -33,7 +35,7 @@ const commands_part_three = {
 //? VALIDACONES PARTE 1
 
 function validation_p1_c1() {
-    const p1:string = readLineSync.question('Ingresa el Primer comando de la parte 1: ')
+    const p1: string = readLineSync.question('Ingresa el Primer comando de la parte 1: ')
     if (p1 === comands_part_one[1]) {
         console.clear();
         console.log("");
@@ -58,7 +60,7 @@ function validation_p1_c1() {
 }
 
 function validation_p1_c2() {
-    const p1:string = readLineSync.question('Ingresa el Segundo comando de la parte 1: ')
+    const p1: string = readLineSync.question('Ingresa el Segundo comando de la parte 1: ')
     if (p1 === comands_part_one[2]) {
         console.clear();
         console.log("");
@@ -83,7 +85,7 @@ function validation_p1_c2() {
 }
 
 function validation_p1_c3() {
-    const p1:string = readLineSync.question('Ingresa el Tercer comando de la parte 1: ')
+    const p1: string = readLineSync.question('Ingresa el Tercer comando de la parte 1: ')
     if (p1 === comands_part_one[3]) {
         console.clear();
         console.log("");
@@ -108,7 +110,7 @@ function validation_p1_c3() {
 }
 
 function validation_p1_c4() {
-    const p1:string = readLineSync.question('Ingresa el Cuarto comando de la parte 1: ')
+    const p1: string = readLineSync.question('Ingresa el Cuarto comando de la parte 1: ')
     if (p1 === comands_part_one[4]) {
         console.clear();
         console.log("");
@@ -133,7 +135,7 @@ function validation_p1_c4() {
 }
 
 function validation_p1_c5() {
-    const p1:string = readLineSync.question('Ingresa el Quinto comando de la parte 1: ')
+    const p1: string = readLineSync.question('Ingresa el Quinto comando de la parte 1: ')
     if (p1 === comands_part_one[5]) {
         console.clear();
         console.log("");
@@ -158,7 +160,7 @@ function validation_p1_c5() {
 }
 
 function validation_p1_c6() {
-    const p1:string = readLineSync.question('Ingresa el Sexto comando de la parte 1: ')
+    const p1: string = readLineSync.question('Ingresa el Sexto comando de la parte 1: ')
     if (p1 === comands_part_one[6]) {
         console.clear();
         console.log("");
@@ -170,7 +172,7 @@ function validation_p1_c6() {
         console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
         console.log("");
         console.log("");
-        
+
     } else {
         console.clear();
         console.log("");
@@ -187,7 +189,7 @@ function validation_p1_c6() {
 //? VALIDACONES PARTE 2
 
 function validation_p2_c1() {
-    const p2:string = readLineSync.question('Ingresa el Primer comando de la parte 2: ')
+    const p2: string = readLineSync.question('Ingresa el Primer comando de la parte 2: ')
     if (p2 === commands_part_two[1]) {
         console.clear();
         console.log("");
@@ -212,7 +214,7 @@ function validation_p2_c1() {
 }
 
 function validation_p2_c2() {
-    const p2:string = readLineSync.question('Ingresa el Segundo comando de la parte 2: ')
+    const p2: string = readLineSync.question('Ingresa el Segundo comando de la parte 2: ')
     if (p2 === commands_part_two[2]) {
         console.clear();
         console.log("");
@@ -237,7 +239,7 @@ function validation_p2_c2() {
 }
 
 function validation_p2_c3() {
-    const p2:string = readLineSync.question('Ingresa el Tercer comando de la parte 2: ')
+    const p2: string = readLineSync.question('Ingresa el Tercer comando de la parte 2: ')
     if (p2 === commands_part_two[3]) {
         console.clear();
         console.log("");
@@ -262,7 +264,7 @@ function validation_p2_c3() {
 }
 
 function validation_p2_c4() {
-    const p2:string = readLineSync.question('Ingresa el Cuarto comando de la parte 2: ')
+    const p2: string = readLineSync.question('Ingresa el Cuarto comando de la parte 2: ')
     if (p2 === commands_part_two[4]) {
         console.clear();
         console.log("");
@@ -287,7 +289,7 @@ function validation_p2_c4() {
 }
 
 function validation_p2_c5() {
-    const p2:string = readLineSync.question('Ingresa el Quinto comando de la parte 2: ')
+    const p2: string = readLineSync.question('Ingresa el Quinto comando de la parte 2: ')
     if (p2 === commands_part_two[5]) {
         console.clear();
         console.log("");
@@ -314,7 +316,7 @@ function validation_p2_c5() {
 
 //? VALIDACONES PARTE 3
 function validation_p3_c1() {
-    const p3:string = readLineSync.question('Ingresa el Primer comando de la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Primer comando de la parte 3: ')
     if (p3 === commands_part_three[1]) {
         console.clear();
         console.log("");
@@ -339,7 +341,7 @@ function validation_p3_c1() {
 }
 
 function validation_p3_c2() {
-    const p3:string = readLineSync.question('Ingresa el Segundo comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Segundo comando la parte 3: ')
     if (p3 === commands_part_three[2]) {
         console.clear();
         console.log("");
@@ -364,7 +366,7 @@ function validation_p3_c2() {
 }
 
 function validation_p3_c3() {
-    const p3:string = readLineSync.question('Ingresa el Tercer comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Tercer comando la parte 3: ')
     if (p3 === commands_part_three[3]) {
         console.clear();
         console.log("");
@@ -389,7 +391,7 @@ function validation_p3_c3() {
 }
 
 function validation_p3_c4() {
-    const p3:string = readLineSync.question('Ingresa el Cuarto comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Cuarto comando la parte 3: ')
     if (p3 === commands_part_three[4]) {
         console.clear();
         console.log("");
@@ -414,7 +416,7 @@ function validation_p3_c4() {
 }
 
 function validation_p3_c5() {
-    const p3:string = readLineSync.question('Ingresa el Quinto comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Quinto comando la parte 3: ')
     if (p3 === commands_part_three[5]) {
         console.clear();
         console.log("");
@@ -439,7 +441,7 @@ function validation_p3_c5() {
 }
 
 function validation_p3_c6() {
-    const p3:string = readLineSync.question('Ingresa el Sexto comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Sexto comando la parte 3: ')
     if (p3 === commands_part_three[6]) {
         console.clear();
         console.log("");
@@ -464,7 +466,7 @@ function validation_p3_c6() {
 }
 
 function validation_p3_c7() {
-    const p3:string = readLineSync.question('Ingresa el Septimo comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Septimo comando la parte 3: ')
     if (p3 === commands_part_three[7]) {
         console.clear();
         console.log("");
@@ -489,7 +491,7 @@ function validation_p3_c7() {
 }
 
 function validation_p3_c8() {
-    const p3:string = readLineSync.question('Ingresa el Octavo comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Octavo comando la parte 3: ')
     if (p3 === commands_part_three[8]) {
         console.clear();
         console.log("");
@@ -514,7 +516,7 @@ function validation_p3_c8() {
 }
 
 function validation_p3_c9() {
-    const p3:string = readLineSync.question('Ingresa el Noveno comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Noveno comando la parte 3: ')
     if (p3 === commands_part_three[9]) {
         console.clear();
         console.log("");
@@ -539,16 +541,16 @@ function validation_p3_c9() {
 }
 
 function validation_p3_c10() {
-    const p3:string = readLineSync.question('Ingresa el Decimo comando la parte 3: ')
+    const p3: string = readLineSync.question('Ingresa el Decimo comando la parte 3: ')
     if (p3 === commands_part_three[10]) {
         console.clear();
         console.log("");
-        console.log("███╗  ██╗██╗██████╗██████╗");
-        console.log("████╗ ██║██║██╔═══║██╔═══╝");
-        console.log("██╔██╗██║██║██║   ║█████╗ ");
-        console.log("██║╚████║██║██║   ║██╔══╝ ");
-        console.log("██║ ╚███║██║██████║██████╗");
-        console.log("╚═╝  ╚══╝╚═╝╚═════╝╚═════╝");
+        console.log("██████╗ ██████╗██████╗█████╗   ██╗   ██████╗█████╗");
+        console.log("██╔═══╝ ██╔═██║██╔═██║██╔═██╗  ██║   ██╔═██║██╔═██");
+        console.log("██║ ███║██║ ██║██║ ██║██║ ██║  ██║   ██║ ██║█████╗ ");
+        console.log("██╚═╝██║██║ ██║██║ ██║██║ ██╝  ██║██╗██║ ██║██╔═██ ");
+        console.log("███████║██████║██████║█████╝   █████║██████║█████╗╗");
+        console.log("╚══════╝╚═════╝╚═════╝╚═══╝    ╚════╝╚═════╝╚════╝");
         console.log("");
     } else {
         console.clear();
@@ -563,17 +565,16 @@ function validation_p3_c10() {
     } return
 }
 
-console.log('');
-console.log('Sigue los pasos correspondientes.');
-console.log('');
-console.log('- Digite 1 para entrar al menu de la Parte 1. \n- Digite 2 para entrar al menu de la Parte 2 \n- Digite 3 para entrar al menu de la Parte 3.');
-console.log('');
+const option: number = -1;
 
-const parte:number = readLineSync.questionInt('Digite el numero correspondiente: ')
+do {
+    console.log('');
+    console.log('Sigue los pasos correspondientes.');
+    console.log('');
+    console.log('- Digite 1 para entrar al menu de la Parte 1. \n- Digite 2 para entrar al menu de la Parte 2 \n- Digite 3 para entrar al menu de la Parte 3.');
+    console.log('');
+    const parte: number = readLineSync.questionInt('Digite el numero correspondiente: ')
 
-const option:number = -1;
-
-while (option != 0) {
     if (parte === 1) {
         console.log('');
         console.log('---------- PARTE 1 ----------');
@@ -586,7 +587,7 @@ while (option != 0) {
         console.log('----------------------------\n');
 
         const opcion = readLineSync.questionInt('Ingresa la opcion que deseas: ');
-        
+
         console.log('');
 
 
@@ -615,7 +616,7 @@ while (option != 0) {
         console.log('4. Ingresar el comando 4 de la parte 2.');
         console.log('5. Ingresar el comando 5 de la parte 2.');
         console.log('----------------------------\n');
-        
+
         const opcion = readLineSync.questionInt('Ingresa la opcion que deseas: ');
         console.log('');
 
@@ -675,5 +676,6 @@ while (option != 0) {
             case (10): validation_p3_c10();
                 break
         }
+        break
     }
-}
+} while (option != 0);
